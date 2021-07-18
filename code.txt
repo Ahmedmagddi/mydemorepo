@@ -3,3 +3,8 @@ main_fun {
 .
 .
 }
+dev1_fun {
+.
+.
+.
+}
