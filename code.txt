@@ -1,6 +1,6 @@
 main_fun {
 .
-.
+change in main fun
 .
 }
 dev1_fun {
