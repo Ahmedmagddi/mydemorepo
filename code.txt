@@ -5,7 +5,7 @@ main_fun {
 }
 dev1_fun {
 .
-.
+change dev1 fun
 .
 }
 dev2_fun (
